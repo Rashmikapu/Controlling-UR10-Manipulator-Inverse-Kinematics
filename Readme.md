@@ -45,5 +45,5 @@ ur10/urdf
 
 # RESULTS :
 
-![Alt text](circle2.gif)
-![Alt text](one_fourth_circle.gif)
+![Alt text](/results/circle2.gif)
+![Alt text](/results/one_fourth_circle.gif)
