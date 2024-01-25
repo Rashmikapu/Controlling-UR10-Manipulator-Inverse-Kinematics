@@ -45,5 +45,8 @@ ur10/urdf
 
 # RESULTS :
 
+## Drawing a circle
 ![Alt text](/results/circle2.gif)
+
+## Point A to point B in a semicircle (intended for pick and place)
 ![Alt text](/results/one_fourth_circle.gif)
